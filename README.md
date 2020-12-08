@@ -1,5 +1,6 @@
 # MindQuare-Web
 Pagina web que contiene las preguntas del juego mindquare y web-scrapping del mismo sitio para obtener la preguntas,enunciados y respuestas del mismo
+el web-scrapper a presentar se encuentra en Webscrapping/getQuestions.py
 
 ### Integrantes
     -Camilo Andres Cuello
